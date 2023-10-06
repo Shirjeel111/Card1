@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(223, 221, 162);
+  margin-top: 4%;
+}
+.image{
+  width: 30%;
+  border-radius: 20px 20px 0px 0px;
+  box-shadow: 0.5px 1px 15px rgb(177, 179, 167);
+}
+.back{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.body-style{ 
+ text-align: justify; 
+ margin-left: 35%;
+ margin-right: 35%;
+ background-color: white;
+ border-radius: 0px 0px 20px 20px;
+ box-shadow: 0.5px 1px 25px rgb(177, 179, 167);
+}
+.para{
+  color: black ;
+  padding: 0px 25px 25px 25px;
+}
+.heading-style{
+  margin: 0%;
+  color: black ;
+  padding: 25px 5px 5px 25px;
+}
